@@ -1,0 +1,15 @@
+{
+    "name" : "myApp",
+    "version" : "1.0.0",
+    "author" : "Andrea Usseglio Gaudi",
+    "private" : true,
+    "devDependencies" : {
+      "matchdep" : "*",
+      "grunt": "*",
+      "grunt-open" : "*",
+      "grunt-contrib-sass": "*",
+      "grunt-contrib-watch" : "*",
+      "grunt-contrib-jshint" : "*",
+      "grunt-contrib-jade" : "*"
+    }
+}
